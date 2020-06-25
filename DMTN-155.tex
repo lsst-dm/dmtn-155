@@ -36,9 +36,8 @@ This document describes the interim (construction-era) model for online interact
 % Fields: VERSION, DATE, DESCRIPTION, OWNER NAME.
 % See LPM-51 for version number policy.
 \setDocChangeRecord{%
-  \addtohist{1}{YYYY-MM-DD}{Unreleased.}{Melissa Graham}
+  \addtohist{1}{2020-06-17}{Unreleased.}{Melissa Graham}
 }
-
 
 \begin{document}
 
@@ -47,8 +46,82 @@ This document describes the interim (construction-era) model for online interact
 % Frequently for a technote we do not want a title page  uncomment this to remove the title page and changelog.
 % use \mkshorttitle to remove the extra pages
 
-% ADD CONTENT HERE
-% You can also use the \input command to include several content files.
+\section{Introduction} \label{sec:intro}
+
+The goal of this interim model is to strengthen both our interactions and our online resources by making consistent use of the tools at hand to support our combined efforts to develop, understand, and apply the the Rubin software and data products. 
+This model should be considered a stepping-stone to the future community support system during Rubin Operations, which must serve an active user community of thousands of people, with a wide variety of skills, background, expertise, and resources.
+Thus, the primary objective of this support model is to reduce barriers to accessing information and to participating in Rubin science by developing a system that is both scalable and sustainable.
+To achieve this, this model aims to {\it enable crowd-sourced problem solving} by building a deep repository of openly available and searchable expertise, and cultivating a global community of engaged scientists.
+
+For these reasons, out of all available modes of communication \citedsp{SQR-011}, this interim support model emphasizes use of the Community Forum. To date, the Forum contains many great examples of DM-community interactions. To continue and expand the Forum's effectiveness, Rubin DM will undertake three main initiatives: 
+\begin{enumerate}
+\item The DM-SST will regularly moderate the "Support" category on Community to ensure no question gets left behind, and assist with the synthesis and curation of solutions.
+\item DM staff are encouraged to post questions and answers related to community support in the Community Forum as often as possible.
+\item DM staff are encouraged to use the {\tt \#dm-support} Slack channel, which is linked directly to the Community Forum, for casual discussion of Forum postings. 
+\end{enumerate}
+These initiatives are designed to also encourage community members to continue and expand their use of the Community Forum.
+The intended result is that the Community Forum grows to host a reservoir of accessible Rubin-related expertise and serve as a resource for open and engaging interactions between DM and the science community. 
+
+
+\section{Community Forum}\label{sec:forum}
+
+Our online Community Forum (\url{community.lsst.org}) is hosted on the Discourse web forum platform, which has been widely adopted by industry, e.g., Codeacademy, Udacity, Docker, Patreon, Car Talk, and more\footnote{\url{https://www.discourse.org/customers}}.
+The key qualities of the Community forum, the motivation behind its selection, and an overview of available categories are described in detail in \citeds{SQR-011}.
+The Community Forum is the primary resource for interactions between DM staff and science community members because it enables us to build a deep repository of our communal expertise on a platform that is both {\it publicly accessible} and {\it easily searchable}.
+Anyone, anywhere can create an account on the Community Forum (i.e., Rubin data rights are not required, unlike participation in the Science Collaborations and LSSTC Slack), and accounts are not required to search and read postings. 
+These attributes of the Community Forum reduce redundancy in our interactions and help us to build a strong global community of users with the means to crowd source their own solutions.
+
+{\bf For the above reasons, questions and answers about Rubin software and data products should be taken to the Community Forum as often as possible.}
+
+The Community Forum has a wide variety of topical categories that serve the project, Data Management, and the broader science community. 
+Two of these categories are dedicated to hosting questions from the members of the scientific community to DM staff: "Support and "Science - Data Q\&A".
+The former is typically populated with questions about the current Rubin software, and the latter with questions about the planned data products.
+These two categories are full of excellent examples of Rubin DM staff responding to community requests for support and working to resolve the issues.
+The "Science - Data Q\&A" category has been moderated by the DM-SST, whereas assistance in the "Support" channel has occurred more organically.
+Going forward, the DM-SST will take a more active role in helping to moderate the "Support" channel as well, to ensure no question goes unanswered.
+The intent is that this additional DM-SST involvement will encourage all members of DM and the science community to pose their questions in the Community Forum.
+
+Furthermore, when DM staff encounter issues or have internal Q\&A which could be of broader interest, posting it to the Community Forum is encouraged.
+The DM-SST and the pre-operations Community Engagement Team (CET; \S~\ref{sec:cet} are happy to assist with distilling and formatting such posts (contact Melissa Graham).
+The Community Forum post about DIA Objects in the AP and DR catalogs\footnote{\url{https://community.lsst.org/t/will-dia-objects-be-matched-between-drp-and-ap/4178/11}} is a good example of a discussion that occurred in Slack, but was deemed to be of broader interest and moved to the Community Forum, and for which a distilled summary was prepared.
+
+After the Rubin Construction phase ends and Operations begins, the CET will be the main interface for project-community interactions and will assume responsibility of moderating user support in the Community Forum.
+In this interim phase, the CET will work with the DM-SST to assist with responding to requests for user support in the Community Forum.
+Both the DM-SST and the CET will rely on existing documentation to generate answers when possible, and identify expertise among DM staff to assist on an as-needed basis.
+This means that they might solicit DM expertise via Slack channels or by contacting individuals directly; DM staff should review Section \ref{sec:jira}.
+
+\section{LSSTC Slack}\label{sec:slack}
+
+The LSSTC Slack is our tool for real-time conversations across our geographically distributed network, with many channels hosting active participation of both DM staff and Science Collaboration members.
+As two examples, the {\tt \#dm-} channels are focused on active code development by DM staff in which Science Collaboration members are welcome to follow and participate in the discussions, and the {\tt \#desc-} channels are focused on activities of the Dark Energy Science Collaboration and encourage participation of DM staff with overlapping science interests.
+In particular, the {\tt \#dm-newbies} channel serves as a Slack point-of-entry for all DM staff and Science Collaboration members who are new to using the DM pipelines.
+
+The wide variety of channels and generally casual nature of Slack make it very useful for on-the-fly conversations, but these aspects can also make it challenging for new users from the Science Collaborations to navigate.
+Some other drawbacks of Slack are that since most of the Rubin Observatory project staff are in American timezones their real-time expertise is not equally available to international Science Collaboration members, and that Slack is limited to data rights holders and cannot serve the broader global community of Rubin science users.
+Additionally, Slack conversations are not easily searchable, cannot be externally linked, and will not scale to the future Operations era with thousands of users.
+The intent is that by clearly and unambiguously identifying the Community Forum as our primary tool for community support (as it was always intended to be; \citeds{SQR-011}), we will reduce barriers to information, expertise, and participation in the global Rubin science community.
+
+Towards this end, DM staff are encouraged to be proactive about posting questions (and especially requests that could be categorized as "user support") regarding Rubin-developed software or data products on the Community Forum as often as possible.
+Citing relevant Community Forum posts in Slack discussions would also be a helpful practice to reinforce the use of the Forum.
+It is appreciated that the identification of topics and discussions that are more or less suitable to Slack or the Community Forum will be a grey area, especially during this interim phase, so let's apply the principle that no topic is inappropriate for the Community Forum.
+
+In addition to the aforementioned channels, it is anticipated that a casual channel for real-time conversations about Community Forum postings will be both needed and useful, at least during this interim phase.
+The open channel {\tt \#dm-support} should be used for this because it is already the Forum-Slack interface (all new Forum postings in "Support" or "Science - Data Q\&A" appear in {\tt \#dm-support}).
+
+\section{Jira for DM Staff}\label{sec:jira}
+
+There will be cases where difficult questions are posted to the Community Forum, or the ensuing discussions reveal bugs or desired new features.
+These cases might require scheduled work on behalf of DM staff to generate an answer.
+This work should be done with Jira tickets to ensure it is trackable and accounted for.
+All DM staff should be sure to talk to their T/CAM if a support-related activity requires such work.
+
+\section{Community Engagement Team}\label{sec:cet}
+
+The Rubin Observatory Community Engagement Team (CET) within the System Performance department will be responsible for providing support for science users of Rubin data products and services during Operations.
+For example, by maintaining resources that enable crowd-sourced problem solving, curating documentation and tutorials, serving as an interface between project and community, and coordinating expertise to respond to issues that may arise.
+Now, during construction, the CET is making plans for a full community support model and beginning to take on some initial responsibilities.
+To start, the interim pre-operations CET members will join {\tt \#dm-support}, help to monitor postings to the Community Forum categories "Support" and "Science - Data Q\&A", and assist when possible with responding to questions.
+They will also be evaluating the effectiveness of this interim model in achieving its goals, and soliciting feedback about communications tools from both DM and the science community, to inform their plans for a community support model during operations.
 
 \appendix
 % Include all the relevant bib files.
