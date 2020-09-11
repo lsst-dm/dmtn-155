@@ -72,12 +72,41 @@ Redirecting Questions to the Community Forum
 
 It is appreciated that redirecting user questions that come by email or Slack message to the Community Forum could be socially awkward, especially during this interim time when usage of Community.lsst.org is still ramping up.
 Below are several phrases that we can all use to help us engage users in the Community Forum.
-Which of these phrases you might choose to use, and how much additional information that you supply (e.g., links to the Forum category, instructions for posting, expressions of gratitude like "great question!" or "thanks so much!"), will of course depend on the situation.
+Which of these phrases you might choose to use, and how much additional information that you supply will of course depend on the situation.
+(E.g., links to the Forum categories, existing topics, or instructions; expressions of gratitude like "great question!" or "thanks so much!").
 
  - "To make sure the answer can help others as well, I have posted my answer in the X category at Community.lsst.org. Please do feel free to reply in that thread with any follow-up questions on this topic."
  - "It is DM's policy that we answer questions in the open public forum at Community.lsst.org; would you mind posting your question as a new Topic in the X category?"
  - "To make sure this question is fully answered by the relevant DM staff members, could you please post it as a new topic in the X category at Community.lsst.org?"
  - "I think this topic at Community.lsst.org contains the answer to your question?"
+
+
+Linking Users to the Appropriate Community Forum Category
+---------------------------------------------------------
+
+Most questions that DM staff recieve from the user community fall into one of the following three categories.
+
+**Science - Data Q&A**: https://community.lsst.org/c/sci/data/
+
+Primarily questions about the planned data products (e.g., scientific applications).
+This category is monitored by the DM-SST to ensure all questions recieve timely answers.
+
+**Support**: https://community.lsst.org/c/support/
+
+Primarily questions about applications of the science pipelines (e.g., errors returned during attempts to process data from other facilities).
+This category is monitored by DM team members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
+
+**Data Management**: https://community.lsst.org/c/dm/
+
+Primarily questions and discussion about the development of the science pipelines.
+
+
+
+Linking Users to Information About the Community Forum
+------------------------------------------------------
+
+*E.g., how to get account, Meta posts on how to make a topic.*
+
 
 
 Questions Involving Proprietary Data
@@ -88,24 +117,6 @@ Rare cases involving detailed questions about the science pipelines performance 
 The first response should be to try and "anonymize" the question so that it can be posted to Community without revealing any proprietary data.
 However, if this cannot be done, then the user should be accommodated and interaction should proceed privately.
 
-
-Linking Users to the Appropriate Community Forum Category
----------------------------------------------------------
-
-Most questions that DM staff recieve from the user community fall into one of the following three categories
-
-**Science - Data Q&A**:
-Questions about the planned data products.
-Monitored by the DM-SST, answers primarily prepared by the DM-SST.
-
-**Support**:
-Questions about the science pipelines, primarily from the science community.
-Monitored by all of DM.
-All new posts appear in `#dm-support`
-
-**Data Management**:
-Topics about development, within DM or with science community.
-More for code dev than applications
 
 
 JIRA for DM Staff
