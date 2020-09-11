@@ -103,11 +103,11 @@ Linking users to information about the Community Forum.
 
 Users will need an account for Community.lsst.org in order to post, but all public content is visible without an account.
 
-If users have questions about Community.lsst.org, direct them to the Meta_ category, which is primarily about the use of the Community Forum.
+If users have questions about Community.lsst.org, direct them to the Meta_ category.
 
 .. _Meta: https://community.lsst.org/c/meta/
 
-Here are some quick links for anticipated FAQs:
+Here are some quick links to Meta topics for anticipated FAQs:
 
  - subscrbing via RSS_ or email_
  - `using GitHub authentication`_
@@ -116,8 +116,8 @@ Here are some quick links for anticipated FAQs:
  - `formatting math and code`_
  - `understanding flat threading`_
 
-.. _`Saving draft posts`_: https://community.lsst.org/t/can-i-save-a-draft-post-and-finish-it-later/4308
-.. _`Tips for replying to topics`: https://community.lsst.org/t/tips-for-effective-conversation-on-the-forum-replies-quotes-and-replying-as-a-new-topic/1273
+.. _`saving draft posts`: https://community.lsst.org/t/can-i-save-a-draft-post-and-finish-it-later/4308
+.. _`tips for replying to topics`: https://community.lsst.org/t/tips-for-effective-conversation-on-the-forum-replies-quotes-and-replying-as-a-new-topic/1273
 .. _RSS: https://community.lsst.org/t/how-to-subscribe-via-rss/41
 .. _email: https://community.lsst.org/t/how-to-subscribe-to-emails-of-all-new-topics-in-categories-or-tags/37
 .. _`understanding flat threading`: https://community.lsst.org/t/understanding-and-using-discourses-flat-threading/150
