@@ -56,8 +56,11 @@ To achieve this, the model aims to enable crowd-sourced problem solving by build
 For these reasons, the interim support model emphasizes use of the Community Forum for all interactions between DM staff and the science community, instead of the LSSTC Slack space.
 
 This interim model has three main components:
+
 1. DM staff are encouraged to post questions and answers related to community support in the Community Forum as often as possible, and to encourage the user community to do the same.
+
 2. The DM System Science Team (SST) will monitor the "Support" category on Community to ensure no question gets left behind.
+
 3. DM staff are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses.
 
 The intended result is that the Community Forum grows to host a reservoir of accessible Rubin-related expertise and serve as a resource for open and engaging interactions between all members of the broad Rubin community.
@@ -91,31 +94,18 @@ Linking Users to the Appropriate Community Forum Category
 
 Most questions that DM staff recieve from the user community fall into one of the following three categories
 
-
-Science - Data Q&A
-------------------
-
+**Science - Data Q&A**:
 Questions about the planned data products.
 Monitored by the DM-SST, answers primarily prepared by the DM-SST.
 
-
-Support
--------
-
+**Support**:
 Questions about the science pipelines, primarily from the science community.
 Monitored by all of DM.
 All new posts appear in `#dm-support`
 
-
-Data Management
----------------
-
+**Data Management**:
 Topics about development, within DM or with science community.
 More for code dev than applications
-
-
-
-
 
 
 JIRA for DM Staff
