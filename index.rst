@@ -82,7 +82,7 @@ Which of these phrases you might choose to use, and how much additional informat
 Linking users to the appropriate category in the Community Forum.
 -----------------------------------------------------------------
 
-Most questions that DM staff recieve from the user community will likely fall into the first two categories, **Science - Data Q&A** or **Support**.
+Most questions that DM staff recieve from the user community will be appropriate for categories **Science - Data Q&A** or **Support**.
 
 **Science - Data Q&A**: https://community.lsst.org/c/sci/data/
 
@@ -93,6 +93,10 @@ This category is monitored by the DM-SST to ensure all questions recieve timely 
 
 Primarily used for questions about applications of the science pipelines (e.g., errors returned during attempts to process data from other facilities).
 This category is monitored by DM team members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
+
+
+Other Community categories.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Meta**: https://community.lsst.org/c/meta/
 
