@@ -94,26 +94,42 @@ This category is monitored by the DM-SST to ensure all questions recieve timely 
 Primarily used for questions about applications of the science pipelines (e.g., errors returned during attempts to process data from other facilities).
 This category is monitored by DM team members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
 
-
-Other Community categories.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-**Meta**: https://community.lsst.org/c/meta/
-
-If users have questions about Community.lsst.org, direct them to this category, which is primarily about the use of the Community Forum.
-
-**Data Management**: https://community.lsst.org/c/dm/
-
-In most cases it wold be inappropriate to direct a user to this category.
-Most sub-categories in this channel are private, and available only to Project staff, and only a few are public.
-Primarily, this category is used for questions and discussion about the development of the science pipelines.
+As a side note, there is a category for Data Management, but in most cases it would be inappropriate to direct a user to this category.
+This category is primarily used for discussion about the development of the science pipelines, and most of its sub-categories are private (visible only to Project staff).
 
 
 Linking users to information about the Community Forum.
 -------------------------------------------------------
 
-*E.g., how to get account, Meta posts on how to make a topic.*
+Users will need an account for Community.lsst.org in order to post, but all public content is visible without an account.
 
+If users have questions about Community.lsst.org, direct them to the Meta_ category, which is primarily about the use of the Community Forum.
+
+.. _Meta: https://community.lsst.org/c/meta/
+
+Here are some quick links for anticipated FAQs:
+
+ - subscrbing via RSS_ or email_
+ - `using GitHub authentication`_
+ - `saving draft posts`_
+ - `tips for replying to topics`_
+ - `formatting math and code`_
+ - `understanding flat threading`_
+
+.. _`Saving draft posts`_: https://community.lsst.org/t/can-i-save-a-draft-post-and-finish-it-later/4308
+.. _`Tips for replying to topics`: https://community.lsst.org/t/tips-for-effective-conversation-on-the-forum-replies-quotes-and-replying-as-a-new-topic/1273
+.. _RSS: https://community.lsst.org/t/how-to-subscribe-via-rss/41
+.. _email: https://community.lsst.org/t/how-to-subscribe-to-emails-of-all-new-topics-in-categories-or-tags/37
+.. _`understanding flat threading`: https://community.lsst.org/t/understanding-and-using-discourses-flat-threading/150
+.. _`using GitHub authentication`: https://community.lsst.org/t/how-do-i-login-using-github-authentication-instead-of-a-password/31
+.. _`formatting math and code`: https://community.lsst.org/t/how-to-format-posts-including-math-and-code/38
+
+Additionally, a "tour" of Community.lsst.org was provided during the Rubin 2020 PCW session on Community Support.
+The tour starts at 25 minutes and 45 seconds into the recorded presentation, available here_.
+More information about that session is available in this Community Forum topic_.
+
+.. _here: https://www.youtube.com/watch?v=HJQSHc7qcGE&feature=youtu.be
+.. _topic: https://community.lsst.org/t/rubin-pcw-2020-community-support-for-science/4344
 
 
 Cases in which the Community Forum might not be used.
