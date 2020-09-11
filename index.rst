@@ -125,11 +125,11 @@ Here are some quick links to Meta topics for anticipated FAQs:
 .. _`formatting math and code`: https://community.lsst.org/t/how-to-format-posts-including-math-and-code/38
 
 Additionally, a "tour" of Community.lsst.org was provided during the Rubin 2020 PCW session on Community Support.
-The tour starts at 25 minutes and 45 seconds into the recorded presentation, available here_.
-More information about that session is available in this Community Forum topic_.
+The tour starts at 25 minutes and 45 seconds into `the recorded presentation`_.
+More information about that session is available in `this Community Forum topic`_.
 
-.. _here: https://www.youtube.com/watch?v=HJQSHc7qcGE&feature=youtu.be
-.. _topic: https://community.lsst.org/t/rubin-pcw-2020-community-support-for-science/4344
+.. _`the recorded presentation`: https://www.youtube.com/watch?v=HJQSHc7qcGE&feature=youtu.be
+.. _`this Community Forum topic`: https://community.lsst.org/t/rubin-pcw-2020-community-support-for-science/4344
 
 
 Cases in which the Community Forum might not be used.
@@ -160,9 +160,9 @@ Documentation
 =============
 
 This Tech Note is focused on dynamic modes of community support (e.g., providing explanations, answering questions), but static modes (e.g., tutorials, documentation, and the pipelines code itself) remain a very important and efficient component of DM's community support.
-These aspects of DM community support are already well described in the DM Developer Guide, `here`_.
+These aspects of DM community support are already well described in `the DM Developer Guide`_.
 
-.. _here: https://developer.lsst.io
+.. _`the DM Developer Guide`: https://developer.lsst.io
 
 
 Community Engagement Team
