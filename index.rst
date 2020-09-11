@@ -172,12 +172,12 @@ Community Engagement Team
 =========================
 
 The Rubin Observatory Community Engagement Team (CET) within the System Performance department will be responsible for facilitating support for science users of Rubin data products and services during Operations.
-The full model for community support during operations will be described in `RTN-00X`_.
+The full model for community support during operations will be described in `RTN-00X`_, and will include motivations for the choice of Discourse for the Community Forum (see also `SQR-011`_).
 Pre-operations CET members will help to monitor postings to the Community Forum categories "Support" and "Science - Data Q&A", and assist when possible with responding to questions.
 They will also be evaluating the effectiveness of this interim model in achieving its goals, and soliciting feedback about communications tools from both DM and the science community, to inform their plans for a community support model during Operations.
 
 .. _RTN-00X: tbd
-
+.. _SQR-011: https://sqr-011.lsst.io/
 
 
 
