@@ -51,8 +51,11 @@ Introduction
 
 The Data Management team currently provides excellent support to our community of science pipelines users, and that community is starting to expand rapidly.
 The community support system for Rubin Operations must be scalable and sustainable, and capable of serving an active user community of thousands of people with a wide variety of skills, background, expertise, and resources.
-This tech note provides an interim support model as a stepping-stone to this future system.
-The main goals of this interim model are to reduce barriers to accessing information and participating in Rubin science, and to enable crowd-sourced problem solving, by building a deep repository of openly available and searchable expertise and cultivating a global community of engaged scientists.
+
+This tech note provides an interim support model as a stepping-stone to the future system.
+The main goals of this interim model are to reduce barriers to accessing information and participating in Rubin science, and to enable crowd-sourced problem solving.
+We aim to achieve those goals by building a deep repository of openly available and searchable expertise and cultivating a global community of engaged scientists. 
+
 For these reasons, the interim support model emphasizes use of the Community Forum for all interactions between DM staff and the science community, instead of Slack or email.
 
 This interim model has three main components:
