@@ -76,18 +76,8 @@ The intended long-term result is that the Community Forum grows to host a reposi
 
 As is the case now, there is no expectation that DM staff provide answers for questions they recieve, but all may continue providing support on a best effort basis as their time allows, with development work on the Rubin science pipelines remaining the priority of the construction team.
 
-Additionally, to build up the content in the Community Forum, it would be helpful for DM staff to post internal questions and answers related to use of the LSST science pipelines and Rubin science platform in the Community Forum as often as possible (as preemptive community support). 
-Finally, DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses.
-
-
-Types of questions anticipated
-------------------------------
-
-We anticipate several different types of questions from the community, each which might require different levels of effort to address. 
-
-#. Questions that the community could answer. In this case, the community engagement team would monitor the conversation to ensure that solution to the OP's question was adequtlly addressed. 
-#. Questions that the community engagement team could answer, possibly working with DM team members internally to prepare a soluution.
-#. Questions that require a response from someone in the DM team. In this case, the community engagement team would bring a question to the attention of the appropriate DM team member and ask them to respond.
+Additionally, to build up the content in the Community Forum, it would be helpful for DM staff to post internal questions and answers related to use of the LSST Science pipelines and Rubin Science Platform in the Community Forum as often as possible (as preemptive community support). 
+Finally, DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses internally.
 
 
 
@@ -209,7 +199,7 @@ These aspects of DM community support are already well described in `the DM Deve
 Community Engagement Team
 =========================
 
-The Rubin Observatory Community Engagement Team (CET) within the System Performance department will be responsible for facilitating support for science users of Rubin data products and services during Operations.
+The Rubin Observatory Community Engagement Team (CET) within the System Performance department will be responsible for facilitating support for science users of Rubin data products and services during Operations and Pre-Operations Data Previews.
 The full model for community support during operations will be described in `RTN-006`_.
 Pre-operations CET members will help to monitor postings to the Community Forum categories "Support" and "Science - Data Q&A", and assist when possible with responding to questions.
 They will also be evaluating the effectiveness of this interim model in achieving its goals, and soliciting feedback about communications tools from both DM and the science community, to inform their plans for a community support model during Operations.
