@@ -71,11 +71,27 @@ This interim model has two main components:
 #. DM staff are requested to not respond to emails or slack messages, either direct or to `dm-*` channels requesting support, but rather redirect questions to the Community.lsst.org forum.
 #. The DM System Science Team (SST) will monitor the "Support" category Community in a best effort to ensure all inquiries are acknowledged, and answered when possible.
 
-The intended result is that the Community Forum grows to host a repository of accessible Rubin-related expertise and serve as a resource for open and engaging interactions between all members of the broad Rubin community.
+It is recongized that switching from Slack and email to the Community Forum might create some additional short-term overhead as people adjust their workflows.
+The intended long-term result is that the Community Forum grows to host a repository of accessible Rubin-related expertise and serve as a resource for open and engaging interactions between all members of the broad Rubin community.
 
-Towards this end, it would be helpful for staff to post internal questions and answers related to use of the LSST science pipelines and Rubin science platform in the Community Forum as often as possible (as preemptive community support). 
-As is the case now, there is no expectation that DM staff provide answers for questions they recieve, but may continue providing support on a best effort basis as their time allows, with development work on the Rubin science pipelines remaining the priority of the construction team.
-DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses.
+As is the case now, there is no expectation that DM staff provide answers for questions they recieve, but all may continue providing support on a best effort basis as their time allows, with development work on the Rubin science pipelines remaining the priority of the construction team.
+
+
+Additional Minor Components
+---------------------------
+
+- To build up the content in the Community Forum, it would be helpful for DM staff to post internal questions and answers related to use of the LSST science pipelines and Rubin science platform in the Community Forum as often as possible (as preemptive community support). 
+- DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses.
+
+
+Types of questions anticipated
+------------------------------
+
+We anticipate several different types of questions from the community, each which might require different levels of effort to address. 
+
+#. Questions that the community could answer. In this case, the community engagement team would monitor the conversation to ensure that solution to the OP's question was adequtlly addressed. 
+#. Questions that the community engagement team could answer, possibly working with DM team members internally to prepare a soluution.
+#. Questions that require a response from someone in the DM team. In this case, the community engagement team would bring a question to the attention of the appropriate DM team member and ask them to respond.
 
 
 Redirecting Questions to the Community Forum
