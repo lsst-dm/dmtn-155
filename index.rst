@@ -86,10 +86,12 @@ Below are several phrases that we can all use to help us engage users in the Com
 Which of these phrases you might choose to use, and how much additional information that you supply, will of course depend on the nature of the question and its potential answer.
 
 - You know the answer and will provide it.
+
   - "I'm sure I can answer this question for you, but it is DM's policy that we answer questions in the open public forum at Community.lsst.org. Would you mind posting your question as a new topic in the Support category, so that I can answer it there?"
   - "To make sure the answer can help others as well, I have posted this question and my answer in the Support category at Community.lsst.org. Please do feel free to reply in that thread with any follow-up questions on this topic."
 
 - You don't know the answer or will not provide the answer.
+
   - "Unfortunately, I don't know the answer off the top of my head. Could you please post it as a new topic in the Support category at Community.lsst.org? Hopefully someone there will be familiar with this issue."
   - "I'm not sure what the answer is, but this question would be perfect for the Support category at Community.lsst.org. Please try posting in there as a new topic?"
   - As a side note, if you think a particular DM staff member has the answer, please ask them privately or in the ``#dm-support`` Slack channel if they are interested in responding, instead of mentioning them publicly on Community.
