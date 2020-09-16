@@ -77,7 +77,9 @@ The intended long-term result is that the Community Forum grows to host a reposi
 As is the case now, there is no expectation that DM staff provide answers for questions they recieve, but all may continue providing support on a best effort basis as their time allows, with development work on the Rubin science pipelines remaining the priority of the construction team.
 
 Additionally, to build up the content in the Community Forum, it would be helpful for DM staff to post internal questions and answers related to use of the LSST Science pipelines and Rubin Science Platform in the Community Forum as often as possible (as preemptive community support). 
-Finally, DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses internally.
+DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses internally.
+
+As a final note, it is appreciated that the Community Forum might at first feel very formal, but please be reassured: responses do not need to be lovingly crafted perfections. To lower the bar and encourage use, consider it more like Stack Overflow, where people efficiently contribute the knowledge they do have. Partial casual answers and discussion are very much appropriate and appreciated.
 
 
 Redirecting Questions to the Community Forum
