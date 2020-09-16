@@ -79,7 +79,7 @@ As is the case now, there is no expectation that DM staff provide answers for qu
 Additionally, to build up the content in the Community Forum, it would be helpful for DM staff to post internal questions and answers related to use of the LSST Science pipelines and Rubin Science Platform in the Community Forum as often as possible (as preemptive community support). 
 DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses internally.
 
-As a final note, it is appreciated that the Community Forum might at first feel very formal, but please be reassured: responses do not need to be lovingly crafted perfections. To lower the bar and encourage use, consider it more like Stack Overflow, where people efficiently contribute the knowledge they do have. Partial casual answers and discussion are very much appropriate and appreciated.
+As a final note, it is appreciated that the Community Forum might feel very formal compared with Slack, but please be reassured: responses do not need to be lovingly crafted perfections. To lower the bar and encourage use, consider it more like Stack Overflow, where people efficiently contribute the knowledge they do have. Partial casual answers and discussion are very much appropriate and appreciated.
 
 
 Redirecting Questions to the Community Forum
@@ -100,7 +100,7 @@ Which of these phrases you might choose to use, and how much additional informat
   - "I'm not sure what the answer is, but this question would be perfect for the Support category at Community.lsst.org. Please try posting in there as a new topic?"
   - As a side note, if you think a particular DM staff member has the answer, please ask them privately or in the ``#dm-support`` Slack channel if they are interested in responding, instead of mentioning them publicly on Community.
 
-- An answer was already provided in the Slack channel and now you want to move the discussion to the Community forum.
+- An answer is inadvertently posted to a question in a Slack channel, and now you want to move the discussion to the Community forum.
 
   - "This is a great discussion that I'm sure will be of interest to others as well. Would you mind posting your question as a new topic in the Support category, so that we can continue this discussion there?"
   - "This is a great discussion that I'm sure will be of interest to others as well. I have posted this question and responses so far in the Support category at Community.lsst.org. Let's continue discussion in that thread." 
@@ -117,19 +117,16 @@ Most questions that DM staff recieve from the user community will be appropriate
 **Science - Data Q&A**: https://community.lsst.org/c/sci/data/
 
 Primarily used for questions about the planned data products (e.g., scientific applications).
-This category is monitored by the DM-SST to ensure all questions recieve timely answers.
 
 **Support**: https://community.lsst.org/c/support/ 
 
 Primarily used for questions about applications of the science pipelines (e.g., errors returned during attempts to process data from other facilities).
 
-
 **Support  — Rubin Science Platform**: https://community.lsst.org/c/support/lsp
 
 Support subcategory for questions relating to the Rubin Science Platform.
 
-These categories are monitored by DM-SST members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
-
+These categories are regularly checked by DM-SST members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
 
 As a side note, there is a category for Data Management, but in most cases it would be inappropriate to direct a user to this category.
 This category is primarily used for discussion about the development of the science pipelines, and most of its sub-categories are private (visible only to Project staff).
