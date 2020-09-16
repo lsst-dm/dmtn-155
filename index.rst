@@ -58,7 +58,7 @@ In Operations, community support for science is the responsibility of the Commun
 The community support model for Rubin Operations must be scalable, sustainable, and capable of serving an active user community of thousands of people with a wide variety of skills, background, expertise, and resources. 
 We aim to achieve these goals by building a deep repository of openly available and searchable knowledge, and cultivating a global community of engaged scientists to crowd source problem solving. 
 
-This tech note provides an interim support model as a stepping-stone towards this future operations-era model, as well as way to relieve the pressure on the DM construction team from the increasing demand for support. 
+This tech note provides an interim support model as a stepping-stone towards this future operations-era model, as well as a way to relieve the pressure on the DM construction team from the increasing demand for support. 
 Its goal is to provide guidelines for the DM team in supporting and responding to questions from  the community in construction, and to  transition from the current informal and ad-hoc support provided via Slack, to the more sustainable model envisaged in operations. 
 
 Interim Support Model
@@ -101,7 +101,7 @@ Which of these phrases you might choose to use, and how much additional informat
 - An answer was already provided in the Slack channel and now you want to move the discussion to the Community forum.
 
   - "This is a great discussion that I'm sure will be of interest to others as well. Would you mind posting your question as a new topic in the Support category, so that we can continue this discussion there?"
-  - This is a great discussion that I'm sure will be of interest to others as well. I have posted this question and responses so far in the Support category at Community.lsst.org. Let's continue discussion in that thread." 
+  - "This is a great discussion that I'm sure will be of interest to others as well. I have posted this question and responses so far in the Support category at Community.lsst.org. Let's continue discussion in that thread." 
 
 
 Along with the redirect to Community, it might also be appropriate to supply direct links to a Forum category or existing topics (see below), and of course personal expressions like "great question!" or "thanks so much" are at your discretion.
@@ -126,7 +126,7 @@ Primarily used for questions about applications of the science pipelines (e.g., 
 
 Support subcategory for questions relating to the Rubin Science Platform.
 
-These categories are monitored by DM team members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
+These categories are monitored by DM-SST members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
 
 
 As a side note, there is a category for Data Management, but in most cases it would be inappropriate to direct a user to this category.
@@ -201,7 +201,7 @@ This Tech Note is focused on dynamic modes of community support for science (e.g
 These aspects of DM community support are already well described in `the DM Developer Guide`_.
 
 Community support should be tied to user-facing documentation. 
-DM Staff engaged in support discussions should provide feedback, e.g via Jira tickets (see :ref:`jira`), about where user-facing documentation should be improved.
+DM Staff engaged in support discussions should provide feedback, e.g. via Jira tickets (see :ref:`jira`), about where user-facing documentation should be improved.
 
 .. _`the DM Developer Guide`: https://developer.lsst.io
 
