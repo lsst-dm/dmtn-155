@@ -58,13 +58,13 @@ In Operations, community support for science is the responsibility of the Commun
 The community support model for Rubin Operations must be scalable, sustainable, and capable of serving an active user community of thousands of people with a wide variety of skills, background, expertise, and resources. 
 We aim to achieve these goals by building a deep repository of openly available and searchable knowledge, and cultivating a global community of engaged scientists to crowd source problem solving. 
 
-This tech note provides an interim support model as a stepping-stone towards this future operations-era model.
+This tech note provides an interim support model as a stepping-stone towards this future operations-era model, as well as a way to relieve the pressure on the DM construction team from the increasing demand for support. 
 Its goal is to provide guidelines for the DM team in supporting and responding to questions from  the community in construction, and to  transition from the current informal and ad-hoc support provided via Slack, to the more sustainable model envisaged in operations. 
 
 Interim Support Model
 =====================
 
-The interim support model emphasizes use of the Community Forum for all interactions between DM staff and the science community, instead of Slack or email.
+The interim support model emphasizes use of the Community Forum for all interactions between DM staff and the science community, instead of Slack or email. 
 
 This interim model has two main components:
 
@@ -72,13 +72,14 @@ This interim model has two main components:
 #. The DM System Science Team (SST) will monitor the "Support" category Community in a best effort to ensure all inquiries are acknowledged, and answered when possible.
 
 It is recongized that switching from Slack and email to the Community Forum might create some additional short-term overhead as people adjust their workflows.
-The intended long-term result is that the Community Forum grows to host a repository of accessible Rubin-related expertise and serve as a resource for open and engaging interactions between all members of the broad Rubin community.
+The intended long-term result is that the Community Forum grows to host a repository of accessible Rubin-related expertise and serve as a resource for open and engaging interactions between all members of the broad Rubin community, thus reducing the overhead on Rubin staff in the long term. 
 
 As is the case now, there is no expectation that DM staff provide answers for questions they recieve, but all may continue providing support on a best effort basis as their time allows, with development work on the Rubin science pipelines remaining the priority of the construction team.
 
 Additionally, to build up the content in the Community Forum, it would be helpful for DM staff to post internal questions and answers related to use of the LSST Science pipelines and Rubin Science Platform in the Community Forum as often as possible (as preemptive community support). 
-Finally, DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses internally.
+DM staff participating in community support are encouraged to use the ``#dm-support`` Slack channel, which is linked directly to the Community Forum, to discuss Forum postings and coordinate responses internally.
 
+As a final note, it is appreciated that the Community Forum might feel very formal compared with Slack, but please be reassured: responses do not need to be lovingly crafted perfections. To lower the bar and encourage use, consider it more like Stack Overflow, where people efficiently contribute the knowledge they do have. Partial casual answers and discussion are very much appropriate and appreciated.
 
 
 Redirecting Questions to the Community Forum
@@ -86,7 +87,7 @@ Redirecting Questions to the Community Forum
 
 It is appreciated that redirecting user questions that come by email or Slack message to the Community Forum could be socially awkward, especially during this interim time when usage of Community.lsst.org is still ramping up.
 Below are several phrases that we can all use to help us engage users in the Community Forum.
-Which of these phrases you might choose to use, and how much additional information that you supply, will of course depend on the nature of the question and its potential answer.
+Which of these phrases you might choose to use, and how much additional information that you supply, will of course depend on the nature of the question and its potential answer. You are of course free to use your own phrasing if you prefer. 
 
 - You know the answer and will provide it.
 
@@ -99,6 +100,12 @@ Which of these phrases you might choose to use, and how much additional informat
   - "I'm not sure what the answer is, but this question would be perfect for the Support category at Community.lsst.org. Please try posting in there as a new topic?"
   - As a side note, if you think a particular DM staff member has the answer, please ask them privately or in the ``#dm-support`` Slack channel if they are interested in responding, instead of mentioning them publicly on Community.
 
+- An answer is inadvertently posted to a question in a Slack channel, and now you want to move the discussion to the Community forum.
+
+  - "This is a great discussion that I'm sure will be of interest to others as well. Would you mind posting your question as a new topic in the Support category, so that we can continue this discussion there?"
+  - "This is a great discussion that I'm sure will be of interest to others as well. I have posted this question and responses so far in the Support category at Community.lsst.org. Let's continue discussion in that thread." 
+
+
 Along with the redirect to Community, it might also be appropriate to supply direct links to a Forum category or existing topics (see below), and of course personal expressions like "great question!" or "thanks so much" are at your discretion.
 
 
@@ -110,19 +117,16 @@ Most questions that DM staff recieve from the user community will be appropriate
 **Science - Data Q&A**: https://community.lsst.org/c/sci/data/
 
 Primarily used for questions about the planned data products (e.g., scientific applications).
-This category is monitored by the DM-SST to ensure all questions recieve timely answers.
 
 **Support**: https://community.lsst.org/c/support/ 
 
 Primarily used for questions about applications of the science pipelines (e.g., errors returned during attempts to process data from other facilities).
 
-
 **Support  — Rubin Science Platform**: https://community.lsst.org/c/support/lsp
 
 Support subcategory for questions relating to the Rubin Science Platform.
 
-These categories are monitored by DM team members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
-
+These categories are regularly checked by DM-SST members, and all new posts appear in the LSSTC Slack channel `#dm-support` to help us coordinate responses.
 
 As a side note, there is a category for Data Management, but in most cases it would be inappropriate to direct a user to this category.
 This category is primarily used for discussion about the development of the science pipelines, and most of its sub-categories are private (visible only to Project staff).
@@ -170,12 +174,15 @@ Rare cases involving detailed questions about the science pipelines performance 
 The first response should be to try and "anonymize" the question so that it can be posted to Community without revealing any proprietary data.
 However, if this cannot be done then the user should be accommodated and interaction should proceed privately.
 
+Some members of the external community are active and important contributers to DM deliverables; their questions are usually not requests for user support and should not simply be redirected to the Community forum. 
+We acknowledge that this is a grey area where a degree of judgement on a case-by-case basis will be required. 
+
 Slack should continue to be used as a chat platform during live events involving the community, such as workshops or tutorials where real-time communication is needed.
 Good examples of Slack used in this context include the ``#stack-club-course`` channel for real-time support during the `Stack Club Course`_ from May through August of 2020.
 
 .. _`Stack Club Course`: \url{https://github.com/LSSTScienceCollaborations/StackClubCourse
 
-
+.. _jira:
 
 JIRA for DM Staff
 =================
@@ -189,8 +196,11 @@ All DM staff should be sure to talk to their T/CAM if a support-related activity
 Documentation
 =============
 
-This Tech Note is focused on dynamic modes of community support (e.g., providing explanations, answering questions), but static modes (e.g., tutorials, documentation, and the pipelines code itself) remain a very important and efficient component of DM's community support.
+This Tech Note is focused on dynamic modes of community support for science (e.g., providing explanations, answering questions), but static modes (e.g., tutorials, documentation, and the pipelines code itself) remain a very important and efficient component of DM's community support.
 These aspects of DM community support are already well described in `the DM Developer Guide`_.
+
+Community support should be tied to user-facing documentation. 
+DM Staff engaged in support discussions should provide feedback, e.g. via Jira tickets (see :ref:`jira`), about where user-facing documentation should be improved.
 
 .. _`the DM Developer Guide`: https://developer.lsst.io
 
